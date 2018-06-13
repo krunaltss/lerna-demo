@@ -1,0 +1,21 @@
+{
+  "name": "tsswdlogin",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/tsswdlogin.umd.js",
+  "module": "fesm5/tsswdlogin.js",
+  "es2015": "fesm2015/tsswdlogin.js",
+  "esm5": "esm5/tsswdlogin.js",
+  "esm2015": "esm2015/tsswdlogin.js",
+  "fesm5": "fesm5/tsswdlogin.js",
+  "fesm2015": "fesm2015/tsswdlogin.js",
+  "typings": "tsswdlogin.d.ts",
+  "metadata": "tsswdlogin.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

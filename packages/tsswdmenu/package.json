@@ -1,0 +1,21 @@
+{
+  "name": "tsswdmenu",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/tsswdmenu.umd.js",
+  "module": "fesm5/tsswdmenu.js",
+  "es2015": "fesm2015/tsswdmenu.js",
+  "esm5": "esm5/tsswdmenu.js",
+  "esm2015": "esm2015/tsswdmenu.js",
+  "fesm5": "fesm5/tsswdmenu.js",
+  "fesm2015": "fesm2015/tsswdmenu.js",
+  "typings": "tsswdmenu.d.ts",
+  "metadata": "tsswdmenu.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
