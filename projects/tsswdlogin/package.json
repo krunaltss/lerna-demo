@@ -1,0 +1,16 @@
+{
+  "name": "tsswdlogin",
+  "version": "0.0.3",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build tsswdlogin",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  }
+}

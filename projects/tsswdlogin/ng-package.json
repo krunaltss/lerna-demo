@@ -1,0 +1,8 @@
+{
+  "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../packages/tsswdlogin",
+  "deleteDestPath": false,
+  "lib": {
+    "entryFile": "src/public_api.ts"
+  }
+}
